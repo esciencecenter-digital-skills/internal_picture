@@ -1,3 +1,6 @@
 # ignore notebook checkpoints
 *.ipynb_checkpoints
 
+episodes/episode_bonus/secret_hidden/*
+episodes/episode_bonus/secret_hidden/
+
